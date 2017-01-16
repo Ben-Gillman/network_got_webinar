@@ -13,8 +13,6 @@ Agenda
 
 About the Instructor
 
-![pass](https://my.slalom.com/User%20Photos/Profile%20Pictures/ben_gillman_LThumb.jpg?t=63594426366)
-
 Ben Gillman works as a data science consultant in New York City. Ben's professional experience spans Machine Learning, Natural Language Processing, General Linear Modeling, Forecasting, and Data Visualization. Previously, Ben was a data scientist at J.Crew where his algorithms are used for things like sending the J.Crew catalog. He graduated from the George Washington University with a Bachelor's degree in Economics.
 
 # 0) Navigating Jupyter Notebook
